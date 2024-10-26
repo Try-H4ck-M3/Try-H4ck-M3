@@ -9,9 +9,6 @@
 - `Python`
 - `Bash`
 - `Linux`
-##### I’m looking to collaborate on:
-- `CTF-Team`
-- `Help with C++ project`
 ##### How to reach me:
 - Email: `contact.tryh4ckm3@gmail.com`
 ##### Fun fact:
