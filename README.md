@@ -13,8 +13,3 @@
 - Email: `contact.tryh4ckm3@gmail.com`
 ##### Fun fact:
 `I am in CyberSecurity since I was 13`
-
-<!---
-Try-H4ck-M3/Try-H4ck-M3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
