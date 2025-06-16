@@ -7,7 +7,7 @@
 ##  About Me:
 🛠 Infosec Enthusiast, Pentester, CTF Player, Linux enjoyer
 <br><br>
-Hi, I'm TryH4ckM3. My pentest report is just a polite way of saying: "Your code cried when I touched it." I love to play CTF and write challenges for them. My favourite programming languages are C and C++.
+Hi, I'm TryH4ckM3. My pentest report is just a polite way of saying: "Your code cried when I touched it." I love to play CTF and write challenges for them. My favourite programming languages are C and C++. I use arch btw.
 
 ## Contact me:
 [![TryH4ckM3](https://img.shields.io/badge/telegram-0285FF?style=for-the-badge&logo=telegram&logoColor=%23FFFFFF)](https://t.me/TryH4ckM3)
