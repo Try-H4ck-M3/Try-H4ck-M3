@@ -5,7 +5,7 @@
 </div>
 
 ##  About Me:
-🛠 Infosec Enthusiast, Pentester, CTF Player, Linux enjoyer
+🛠 Infosec Enthusiast, Pentester, CTF Player, Arch linux user
 <br><br>
 Hi, I'm TryH4ckM3. My pentest report is just a polite way of saying: "Your code cried when I touched it." I love to play CTF and write challenges for them. My favourite programming languages are C and C++. I use arch btw.
 
